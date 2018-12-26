@@ -1,5 +1,5 @@
 <?php 
-	return json_encode([
+	echo json_encode([
 		"link" => "market://apps/details?id=com.PrincessGarden.HighSchoolFlirting"
 	]);
 ?>
